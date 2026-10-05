@@ -1,0 +1,21 @@
+game_id,game_type,prize_pool,num_winners,allocation_method,description,status
+GAME-001,Roulette,100000.0,1,SINGLE_WINNER,Single winner — full prize,COMPLETED
+GAME-002,Blackjack,200000.0,1,SINGLE_WINNER,Single winner — large prize,COMPLETED
+GAME-003,Poker,75000.0,1,SINGLE_WINNER,Single winner — poker,COMPLETED
+GAME-004,Baccarat,150000.0,1,SINGLE_WINNER,Single winner — baccarat,COMPLETED
+GAME-005,Slot Tournament,50000.0,1,SINGLE_WINNER,Single winner — slot tournament,COMPLETED
+GAME-006,Roulette,100000.0,2,EQUAL_SHARE,Two shared winners — equal split,COMPLETED
+GAME-007,Poker,200000.0,2,PERCENTAGE_BASED,Two shared winners — 60/40 split,COMPLETED
+GAME-008,Blackjack,80000.0,2,EQUAL_SHARE,Two shared winners — equal,COMPLETED
+GAME-009,Poker,150000.0,3,EQUAL_SHARE,Three shared winners — equal split,COMPLETED
+GAME-010,Baccarat,300000.0,3,PERCENTAGE_BASED,Three shared winners — 50/30/20,COMPLETED
+GAME-011,Roulette,120000.0,3,EQUAL_SHARE,Three shared winners — equal,COMPLETED
+GAME-012,Poker,200000.0,4,EQUAL_SHARE,Four shared winners — equal split,COMPLETED
+GAME-013,Slot Tournament,400000.0,4,FIXED_AMOUNT,Four shared winners — fixed amounts,COMPLETED
+GAME-014,Blackjack,160000.0,4,EQUAL_SHARE,Four shared winners — equal,COMPLETED
+GAME-015,Roulette,100000.0,0,NO_WINNER,No winner — prize pool retained,COMPLETED
+GAME-016,Poker,80000.0,0,NO_WINNER,No winner — game cancelled,CANCELLED
+GAME-017,Baccarat,60000.0,0,NO_WINNER,No winner — rollover to next game,COMPLETED
+GAME-018,Slot Tournament,50000.0,0,NO_WINNER,No winner — demo non-winning txn,COMPLETED
+GAME-019,Poker,500000.0,2,PERCENTAGE_BASED,High-value — two shared winners 70/30,COMPLETED
+GAME-020,Blackjack,250000.0,1,SINGLE_WINNER,Single winner — high stakes blackjack,COMPLETED
